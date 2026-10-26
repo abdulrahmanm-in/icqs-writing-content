@@ -8,6 +8,9 @@ tags:
   - Memories
   - Growth
   - Reflection
+  - Nostalgia
+  - Friendship
+  - Relationships
 published: true
 ---
 
