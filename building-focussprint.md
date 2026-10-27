@@ -4,13 +4,8 @@ description: "How I built FocusSprint with Angular, FastAPI, and PostgreSQL whil
 date: "2026-09-06"
 category: "Projects"
 tags:
-  - FocusSprint
-  - Angular
-  - FastAPI
-  - Python
-  - PostgreSQL
-  - REST API
-  - Full Stack
+  - Web
+  - Design
 published: true
 ---
 
