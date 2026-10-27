@@ -5,7 +5,7 @@ date: "2026-09-06"
 category: "Projects"
 tags:
   - Web
-  - Design
+  - Learning
 published: true
 ---
 
