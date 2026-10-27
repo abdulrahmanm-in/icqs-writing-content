@@ -1,7 +1,7 @@
 ---
 title: "Somewhere Between Hope and Fear"
 description: "Some thoughts on love, memories, loneliness, and the hope of finding someone who truly understands us."
-date: "2026-10-26"
+date: "2026-10-27"
 category: "Emotion"
 tags:
   - Life
@@ -9,7 +9,7 @@ tags:
   - Reflection
   - Relationships
   - Growth
-published: false
+published: true
 ---
 
 Sometimes, I think about love and what it would feel like to have someone who truly understands me.
