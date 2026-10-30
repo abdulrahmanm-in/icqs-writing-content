@@ -4,8 +4,10 @@ description: "How I built FocusSprint with Angular, FastAPI, and PostgreSQL whil
 date: "2026-09-06"
 category: "Projects"
 tags:
-  - Web
   - Learning
+  - Building
+  - Technology
+  - Problem Solving
 published: true
 ---
 
