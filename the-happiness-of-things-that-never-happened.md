@@ -9,7 +9,7 @@ tags:
   - Psychology
   - Reflection
   - Life
-published: false
+published: true
 ---
 
 Imagine spending a few minutes living an entirely different life without ever leaving your room.
