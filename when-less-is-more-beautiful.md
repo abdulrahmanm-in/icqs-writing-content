@@ -1,6 +1,6 @@
 ---
 title: "When Less Is More Beautiful"
-description: "A reflection on colours, visual harmony, and why adding more doesn't always make something better."
+description: "Exploring how simplicity shapes our everyday choices, surroundings, and the way we appreciate things."
 date: "2026-11-03"
 category: "Ideas"
 tags:
@@ -12,112 +12,106 @@ tags:
 published: false
 ---
 
-More colours should make something more attractive, shouldn't they?
+Have you ever noticed how something simple can sometimes feel more appealing than something elaborate?
 
-That might seem like a reasonable assumption. Yet looking at something filled with colours, patterns, and intricate details doesn't always create excitement. Sometimes, it does the opposite. Meanwhile, something as simple as a black-and-white design can feel surprisingly beautiful.
+It could be a plain T-shirt instead of one covered in prints, a room with neutral colours instead of one filled with decorations, or a website that uses nothing more than black, white, and a well-chosen typeface.
 
-Consider a car covered in colourful lights and bright accents. It certainly catches your attention, but does that automatically make it look good? Not necessarily.
+There's nothing particularly extraordinary about these things. Yet they have a certain appeal.
 
-Now picture a car with clean lines, subtle lighting, and a simple colour combination. Nothing particularly extravagant, yet somehow, it feels more appealing.
+This doesn't mean colourful designs, decorated spaces, or elaborate creations are any less beautiful. They have their own character. But there's something interesting about the way simplicity can make ordinary things feel complete.
 
-It's interesting how something with fewer visual elements can sometimes leave a stronger impression than something with many. Perhaps that's where the beauty of simplicity begins: not in removing everything, but in making room for what matters.
+Perhaps it's not about having fewer things. It's about understanding what makes something worth keeping.
 
-Not everything needs to stand out
+## The things we naturally choose
 
-There's something appealing about things that don't constantly demand attention.
+Think about the everyday choices we make.
 
-Think about choosing between a plain T-shirt and one covered in prints, patterns, and different colours. Neither is inherently better. Both have their own appeal. But sometimes, a plain T-shirt simply feels right.
+When buying clothes, some people gravitate towards bold prints and vibrant colours, while others prefer plain shirts and neutral shades. Some enjoy decorating every corner of their rooms, while others are perfectly happy with a few carefully chosen pieces.
 
-The same applies to websites, rooms, furniture, cars, and everyday objects.
+Neither approach is necessarily better. These choices simply reflect different preferences.
 
-A website doesn't necessarily need multiple colours, gradients, animations, and elaborate effects to look good. A simple black-and-white layout with good typography, thoughtful spacing, and a clear structure can be just as beautiful.
+But there's something interesting about choosing simplicity. A plain shirt can work with several outfits. A room with fewer decorations can feel just as welcoming. A simple desk can provide everything needed for a productive workspace.
 
-Perhaps the appeal comes from the fact that there's nothing unnecessary competing for attention.
+Often, we don't need more options or more objects. We just need the right ones.
 
-Not everything needs to grab your attention to be appreciated. When fewer elements compete with each other, the ones that remain have more room to be noticed.
+The same applies to the things we use every day. A useful object doesn't necessarily need an elaborate design. Sometimes, its greatest quality is that it does exactly what it's supposed to do.
 
-It's not about disliking colours
+## When everything demands attention
 
-This doesn't mean colourful things are bad or that everything should be black and white.
+Our surroundings have more influence on our attention than we might realise.
 
-Colours have their own language.
+Think about walking into a room where every wall has something on it, every corner has a decoration, and every surface holds something interesting. There's plenty to look at, but it can become difficult to focus on any one thing.
 
-Think about paintings and artwork. Colours can communicate emotions, create depth, tell stories, and give meaning to something that might otherwise feel ordinary.
+Now imagine a room with a few pieces of furniture, subtle colours, and enough open space. The room might contain fewer objects, but each one has room to be appreciated.
 
-A colourful painting can be beautiful precisely because of its colours. Every shade contributes something to the overall expression. Removing those colours might take away what makes the artwork special.
+This idea extends beyond physical spaces.
 
-But there's a difference between using colours to express something and simply adding them to make something look interesting.
+Websites, applications, advertisements, and even our devices constantly compete for our attention. Notifications appear, animations play, and new elements keep asking us to interact with them.
 
-A colourful painting and a car covered in colourful lights offer two completely different experiences. One might communicate an idea or emotion, while the other might simply be trying to attract attention.
+A simple interface can feel refreshing because it allows us to focus on what we actually came to do.
 
-Perhaps it's not about the number of colours. It's about how they're used and whether they belong.
+Perhaps the appeal of simplicity isn't just visual. It's also about having fewer things competing for our attention.
 
-Simplicity, then, isn't a rejection of visual richness. It's an appreciation of intention.
+## Simplicity takes thought
 
-Simplicity is not the absence of beauty
+There's an interesting contradiction in creating something simple: achieving simplicity isn't always simple.
+
+A website with dozens of components and features can be built by continuously adding things. But creating a website that does everything necessary with only a few well-designed elements requires more deliberate decisions.
+
+What should stay? What can be removed? Does removing something affect the experience? Is every element serving a purpose?
+
+These questions apply to much more than websites.
+
+Designing a comfortable room, creating a useful product, or even putting together a simple outfit involves choices about what belongs and what doesn't.
+
+Sometimes, the difficult part isn't figuring out what to add. It's deciding what not to add.
+
+That's why simplicity and lack of effort shouldn't be confused. Something can look effortless while having a great deal of thought behind it.
+
+## Simple doesn't mean empty
 
 Minimalism is sometimes misunderstood as removing everything until almost nothing remains.
 
-But simplicity doesn't necessarily mean empty spaces, plain objects, or a complete absence of decoration.
+But a simple space doesn't have to feel empty. A plain outfit doesn't have to look boring. A monochrome website doesn't have to lack personality.
 
-A simple room can still have character. A monochrome website can still have personality. A plain outfit can still look elegant.
+Consider a black-and-white website. It might use only two colours, but typography, spacing, contrast, and layout can give it a distinctive identity.
 
-What makes these things interesting isn't necessarily how little they contain, but how well their elements work together.
+The same applies to interiors. A room with neutral walls can still have warmth through lighting, furniture, textures, and a few meaningful objects.
 
-Good typography, balanced proportions, subtle contrasts, thoughtful spacing, and functionality can make something beautiful without relying on excessive decoration.
+Even colourful artwork can fit beautifully into a minimal space. In fact, having fewer visual elements around it can sometimes make the artwork stand out even more.
 
-Consider a well-designed website. It might use only two or three colours, but the way its fonts, spacing, and other elements come together makes the entire experience feel complete.
+Simplicity isn't about removing personality. It's about giving the important elements enough room to express it.
 
-Adding more elements wouldn't necessarily improve it. It might even take something away from what already works.
+## The relationship between simplicity and usefulness
 
-Simplicity isn't about having less for the sake of having less. It's about recognising what's necessary and making it work well.
+Another interesting aspect of simplicity is how closely it connects with functionality.
 
-The appeal of visual quietness
-
-There's something interesting about environments that don't overwhelm the senses.
-
-A room with neutral colours, simple furniture, and subtle lighting can feel just as complete as a room filled with decorations.
-
-A clean interface can make information easier to understand. A simple workspace can make it easier to focus on what's important.
-
-Perhaps this is why minimal designs are so appealing. They give the eyes somewhere to rest.
-
-We're constantly surrounded by things competing for our attention: advertisements, notifications, patterns, animations, and endless visual elements. In that environment, something simple can feel refreshing.
-
-Not everything around us needs to be visually interesting all the time. Some things can simply exist without competing for our attention.
-
-And that doesn't make them boring. Sometimes, that's precisely what makes them enjoyable.
-
-Simple and useful
-
-That connection between clarity and ease brings us to another aspect of simplicity: usefulness.
-
-An object doesn't become more valuable simply because it has more features or details. Something might be beautiful to look at, but a simple, thoughtfully designed object that serves its purpose well can be much more satisfying.
+Think about everyday objects. A product with dozens of features isn't automatically more useful than one that does a few things exceptionally well.
 
 The same applies to technology.
 
-A website with dozens of features isn't automatically better than one that does a few things exceptionally well. An application doesn't need to offer everything imaginable if its essential features already solve the problem.
+An application doesn't need to solve every possible problem. A website doesn't need to offer every imaginable feature. Sometimes, doing a handful of things reliably is much more valuable than trying to do everything.
 
-Sometimes, removing unnecessary elements improves both the appearance and the experience. A simpler interface can reduce confusion, make important functions easier to find, and help people accomplish what they came to do.
+When unnecessary elements are removed, the important ones become easier to find and use.
 
-There's a certain satisfaction in finding something that does exactly what it needs to do without trying to be anything more.
+This doesn't mean complexity is always bad. Some problems genuinely require complex solutions. But complexity should come from the problem itself, not from adding things simply because they are possible.
 
-This is where visual simplicity meets functional simplicity. The goal isn't just to create something that looks good, but something that communicates clearly and works without unnecessary complications.
+Good design makes the experience feel natural, even when a lot of thought and work has gone into creating it.
 
-Knowing when it's enough
+## Knowing what is enough
 
-Perhaps the enduring appeal of simplicity is that it doesn't try too hard to impress.
+Perhaps the appeal of simplicity comes down to a small but meaningful idea: not everything needs more.
 
-It doesn't mean rejecting colours, creativity, or complexity. There's a place for all of them. A colourful painting, an elaborate design, or a detailed piece of art can be just as meaningful as something minimal.
+A room doesn't always need another decoration. A website doesn't always need another feature. An outfit doesn't always need another colour. And an everyday object doesn't need to be complicated to be useful.
 
-But not everything needs that treatment.
+This doesn't mean avoiding creativity or rejecting things that are elaborate. Colourful artwork, detailed architecture, and complex designs can be wonderful in their own ways.
 
-Sometimes a plain shirt is enough. Sometimes a black-and-white website is enough. Sometimes a room doesn't need another decoration. Sometimes an application is better because it focuses on one purpose instead of trying to do everything.
+It's simply about recognising that different things need different approaches.
 
-Something doesn't have to stand out to be beautiful. Something doesn't have to be complicated to be interesting. And something doesn't need more features to be more useful.
+Sometimes, adding something makes an experience better. Other times, removing something does.
 
-Perhaps simplicity isn't about removing colour, detail, or complexity. It's about understanding what belongs, what adds value, and what can be left out.
+The interesting part is knowing the difference.
 
-A little colour can be beautiful. A lot of colour can be beautiful too. And sometimes, the absence of it can be just as beautiful.
+Maybe that's what makes simplicity appealing. It isn't about having the least possible or following a particular aesthetic. It's about finding a balance where everything has a reason to be there.
 
-Maybe beauty was never about how much we could add, but about knowing when something was already enough.
+**Sometimes, the best thing we can add is nothing at all.**
